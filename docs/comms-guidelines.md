@@ -6,7 +6,7 @@ We respond to newly opened issues within 48 hours during business hours. This is
 
 All our repositories are housed within the Octocorp organization.
 
-# Maintainer responsibilities
+# Maintainer responsibilities   
 
 ### Identifying maintainers, contributors, and the general public
 
