@@ -12,7 +12,7 @@ It's easier to answer this question in terms of what should **not** be open sour
 
 ## Open Source Maintainer Expectations
 
-Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](docs/maintainers-guide.md) to understand what will be expected of you.
+Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](docs/maintainer-guide.md) to understand what will be expected of you.
 
 ## FAQ
 
