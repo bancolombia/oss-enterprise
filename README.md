@@ -21,7 +21,7 @@ Before using a source project in your project, consider evaluating the criteria 
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
-`Under construction` :construction_worker_man: :construction_worker_man: :construction_worker_woman: :construction_worker_woman:
+`Work in progress!` :construction_worker_man: :construction_worker_man: :construction_worker_woman: :construction_worker_woman:
 
 ## License
 
