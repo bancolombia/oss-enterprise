@@ -4,25 +4,27 @@ We respond to newly opened issues within 48 hours during business hours. This is
 
 # Organization and repository structure
 
-All our repositories are housed within the Octocorp organization.
+All our repositories are housed within the Bancolombia organization.
 
 # Maintainer responsibilities   
 
 ### Identifying maintainers, contributors, and the general public
 
-When interacting in a repository owned by the Octocorp organization, you are speaking on behalf of the company.
+When interacting in a repository owned by the Bancolombia organization, you are speaking on behalf of the company.
 
-Employees are identified with an OWNER badge.
+Employees are identified with an MEMBER badge.
 
-<img width="774" alt="owner-badge" src="https://user-images.githubusercontent.com/16547949/33770589-38f46312-dbfc-11e7-97a8-43118a086467.png">
+![members](https://user-images.githubusercontent.com/1641578/119413971-46a0a380-bcb4-11eb-9fa8-673061052269.png)
 
 Community members with prior contributions will be identified with a CONTRIBUTOR badge, and those without prior contributions will not have a badge.
 
-<img width="778" alt="contributor-badge" src="https://user-images.githubusercontent.com/16547949/33770637-6f3b5ebc-dbfc-11e7-882b-f7e9dd3d155b.png">
+![contributor](https://user-images.githubusercontent.com/1641578/119413114-9f6f3c80-bcb2-11eb-887f-5181a5770c49.png)
+
+![community](https://user-images.githubusercontent.com/1641578/119413979-4b655780-bcb4-11eb-952f-7c581d03d1ee.png)
 
 ### Enforcing to the code of conduct
 
-Our [CODE OF CONDUCT](templates/code-of-conduct.md) outlines the behavior we expect from our community. Maintainers are responsible for enforcing violations they witness, or those that have been reported to <EMAIL-FROM-CODE-OF-CONDUCT>.
+Our [CODE OF CONDUCT](https://github.com/bancolombia/oss-enterprise/blob/master/CODE_OF_CONDUCT.md) outlines the behavior we expect from our community. Maintainers are responsible for enforcing violations they witness, or those that have been reported to <EMAIL-FROM-CODE-OF-CONDUCT>.
 
 Violations are not tolerated, but there are always some gray areas.
 
