@@ -1,6 +1,6 @@
 # Releasing Open Source
 
-You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](https://github.com/bancolombia/oss-enterprise/issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
+Do you want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](https://github.com/bancolombia/oss-enterprise/issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
 
 ## What should be open source?
 
@@ -17,7 +17,8 @@ Before you open source your project, consider the effort required to maintain it
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
+`Under construction` :construction_worker_man: :construction_worker_man: :construction_worker_woman: :construction_worker_woman:
 
 ## License
 
-This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+This repository is licensed under [CC-BY-4.0](./LICENSE) (c) 2019 GitHub, Inc.
