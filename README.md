@@ -14,6 +14,10 @@ It's easier to answer this question in terms of what should **not** be open sour
 
 Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](docs/maintainer-guide.md) to understand what will be expected of you.
 
+## What should I keep in mind before using open source?
+Before using a source project in your project, consider evaluating the criteria to keep in mind and best practices. Thus, you will avoid uncomfortable surprises later.
+[Read our Using OSS Guide](https://github.com/bancolombia/oss-enterprise/blob/master/docs/using-oss-projects.md)
+
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
