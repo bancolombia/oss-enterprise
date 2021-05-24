@@ -22,7 +22,7 @@ I'm going to share [REPO name](REPO link) with the world, but before I do, I wan
 - [ ] It uses publicly-accessible continuous integration that integrates with the GitHub status API.
 - [ ] `correct email` is provided as a maintainer contact
 - [ ] It includes the correct `LICENSE` according to [license policy](https://github.com/bancolombia/oss-enterprise/blob/master/docs/license-policy.md)
-- [ ] It has a CODE_OF_CONDUCT.md created using this guide (https://docs.github.com/es/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
+- [ ] It has a `CODE_OF_CONDUCT.md` created using this guide (https://docs.github.com/es/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
 - [ ] It has a `CONTRIBUTING.md` based on [the template in this repository](https://github.com/bancolombia/oss-enterprise/blob/master/templates/CONTRIBUTING.md).
 - [ ] A project homepage has been created that includes (when it applies)
   - [ ] A reference implementation
