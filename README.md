@@ -25,8 +25,8 @@ When interacting in a repository owned by the Bancolombia organization, you are 
 ## Blog
 We've an engineering blog where we're publishing three posts every month about how we do technology at Bancolombia. You can read it on https://medium.com/bancolombia-tech
 
-do you work for Bancolombia? 
-You can write your posts. Contact the open source office via teams for the process.
+Do you work for Bancolombia? 
+You can write your own posts. Contact the open source office through Microsoft teams for the process.
 
 
 ## FAQ
