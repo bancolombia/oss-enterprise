@@ -18,6 +18,10 @@ Before you open source your project, consider the effort required to maintain it
 Before using a source project in your project, consider evaluating the criteria to keep in mind and best practices. Thus, you will avoid uncomfortable surprises later.
 [Read our Using OSS Guide](https://github.com/bancolombia/oss-enterprise/blob/master/docs/using-oss-projects.md)
 
+## Communication Guidelines
+When interacting in a repository owned by the Bancolombia organization, you are speaking on behalf of the company. 
+[Read our Communication Guidelines](https://github.com/bancolombia/oss-enterprise/blob/master/docs/comms-guidelines.md)
+
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
