@@ -22,6 +22,13 @@ Before using a source project in your project, consider evaluating the criteria 
 When interacting in a repository owned by the Bancolombia organization, you are speaking on behalf of the company. 
 [Read our Communication Guidelines](https://github.com/bancolombia/oss-enterprise/blob/master/docs/comms-guidelines.md)
 
+## Blog
+We've an engineering blog where we're publishing three posts every month about how we do technology at Bancolombia. You can read it on https://medium.com/bancolombia-tech
+
+do you work for Bancolombia? 
+You can write your posts. Contact the open source office via teams for the process.
+
+
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
