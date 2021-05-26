@@ -8,7 +8,7 @@ I'm going to share [REPO name](REPO link) with the world, but before I do, I wan
 - [ ] Discuss licensing or other legal concerns with `legal team @mention` (when it applies)
 - [ ] Evaluate security concerns with `security team @mention`
 - [ ] Request a snazzy logo from `creative team  @mention`
-- [ ] Discuss promotion strategy with `public relations team @mention` and `marketing @mention`
+- [ ] Discuss promotion strategy with `communications team @mention` and `marketing @mention`
 
 ## Preparation
 
