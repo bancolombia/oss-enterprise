@@ -1,3 +1,4 @@
+[![Scorecards supply-chain security](https://github.com/bancolombia/oss-enterprise/actions/workflows/scorecards-analysis.yml/badge.svg)](https://github.com/bancolombia/oss-enterprise/actions/workflows/scorecards-analysis.yml)
 # Releasing Open Source
 
 Do you want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. You can [read the checklist](https://github.com/bancolombia/oss-enterprise/blob/master/ISSUE_TEMPLATE/new-release.md) and then open a [new issue](https://github.com/bancolombia/oss-enterprise/issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
