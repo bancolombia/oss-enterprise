@@ -70,12 +70,7 @@ If you are using or contributing to an open source project as a part of your day
 |Eiffel-2.0|:heavy_check_mark: | :heavy_check_mark: |
 |Entessa|:heavy_check_mark: | :heavy_check_mark: |
 |Expat License|:heavy_check_mark: | :heavy_check_mark: |
-|FTL|:heavy_check_mark: | :heavy_check_mark: |
 |Fair|:heavy_check_mark: | :heavy_check_mark: |
-|GNU Lesser General Public Licence|:heavy_check_mark: | :heavy_check_mark: |
-|GNU Lesser Public License|:heavy_check_mark: | :heavy_check_mark: |
-|GPL-3.0|:heavy_check_mark: | :heavy_check_mark: |
-|GPLv3|:heavy_check_mark: | :heavy_check_mark: |
 |Giftware|:heavy_check_mark: | :heavy_check_mark: |
 |Glulxe|:heavy_check_mark: | :heavy_check_mark: |
 |HPND|:heavy_check_mark: | :heavy_check_mark: |
@@ -85,7 +80,6 @@ If you are using or contributing to an open source project as a part of your day
 |ISC|:heavy_check_mark: | :heavy_check_mark: |
 |Intel|:heavy_check_mark: | :heavy_check_mark: |
 |JSON|:heavy_check_mark: | :heavy_check_mark: |
-|LGPL-3.0|:heavy_check_mark: | :heavy_check_mark: |
 |Libpng|:heavy_check_mark: | :heavy_check_mark: |
 |MIT|:heavy_check_mark: | :heavy_check_mark: |
 |MIT/X11|:heavy_check_mark: | :heavy_check_mark: |
@@ -130,9 +124,12 @@ If you are using or contributing to an open source project as a part of your day
 |curl|:heavy_check_mark: | :heavy_check_mark: |
 |diffmark|:heavy_check_mark: | :heavy_check_mark: |
 |psutils|:heavy_check_mark: | :heavy_check_mark: |
-|wxWindows|:heavy_check_mark: | :heavy_check_mark: |
 |Python style|:heavy_check_mark: | :heavy_check_mark: |
+|GNU Lesser General Public Licence|:warning: | :warning: |
+|GNU Lesser Public License|:warning: | :warning: |
+|LGPL-3.0| :warning: | :warning: |
 |AAL|:x:|:x:|
+|AGPL-3.0|:x:|:x:|
 |AMPAS|:x:|:x:|
 |APSL-2.0|:x:|:x:|
 |ASPRISE OCR SDK LICENSE|:x:|:x:|
@@ -151,6 +148,7 @@ If you are using or contributing to an open source project as a part of your day
 |CECILL-2.0|:x:|:x:|
 |CNRI-Jython|:x:|:x:|
 |CPAL-1.0|:x:|:x:|
+|CPL-1.0|:x:|:x:|
 |CUA-OPL-1.0|:x:|:x:|
 |CUAOFFICE-1.0|:x:|:x:|
 |Caldera|:x:|:x:|
@@ -164,8 +162,12 @@ If you are using or contributing to an open source project as a part of your day
 |ErlPL-1.1|:x:|:x:|
 |Eurosym|:x:|:x:|
 |Frameworx-1.0|:x:|:x:|
+|FTL|:x: | :x: |
 |GFDL-1.3|:x:|:x:|
 |Glide|:x:|:x:|
+|GPL-2.0|:x:|:x:|
+|GPL-3.0|:x: | :x: |
+|GPLv3|:x: | :x: |
 |HaskellReport|:x:|:x:|
 |Imlib2|:x:|:x:|
 |JJ2000|:x:|:x:|
@@ -277,19 +279,18 @@ If you are using or contributing to an open source project as a part of your day
 |XFree86-1.1|:x:|:x:|
 |gSOAP-1.3b|:x:|:x:|
 |libtiff|:x:|:x:|
-|AGPL-3.0|:heavy_check_mark:|:warning:|
+|wxWindows|:x: | :x: |
 |ANTLR-PD|:heavy_check_mark:|:warning:|
 |CDDL-1.0|:heavy_check_mark:|:warning:|
 |Day-Addendum|:heavy_check_mark:|:warning:|
 |EPL-1.0|:heavy_check_mark:|:warning:|
 |EPL-2.0|:heavy_check_mark:|:warning:|
-|GPL-2.0|:heavy_check_mark:|:warning:|
 |IBMPL-1.0|:heavy_check_mark:|:warning:|
 |IPL-1.0|:heavy_check_mark:|:warning:|
-|LGPL-2.1|:heavy_check_mark:|:warning:|
+|LGPL-2.1|:warning:|:x:|
 |MPL-1.1|:heavy_check_mark:|:warning:|
 |Unicode-TOU|:heavy_check_mark:|:warning:|
-|CPL-1.0|:heavy_check_mark:|:warning:|
+
 
 
 :warning: means that you must be very careful with the responsibilities you have when using them!
